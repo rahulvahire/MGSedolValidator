@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolValidator", "SedolValidator\SedolValidator.csproj", "{020A3B86-8B56-4035-BA18-2ABA9FFFC165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolValidatorInterfaces", "SedolValidatorInterfaces\SedolValidatorInterfaces.csproj", "{922B4650-7858-43E1-A356-37F19FDC6037}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolValidator.Tests", "SedolValidator.Tests\SedolValidator.Tests.csproj", "{AD0B872F-0B87-4696-8D3D-0E2D92A7A0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020A3B86-8B56-4035-BA18-2ABA9FFFC165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{020A3B86-8B56-4035-BA18-2ABA9FFFC165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{020A3B86-8B56-4035-BA18-2ABA9FFFC165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{020A3B86-8B56-4035-BA18-2ABA9FFFC165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922B4650-7858-43E1-A356-37F19FDC6037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B4650-7858-43E1-A356-37F19FDC6037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B4650-7858-43E1-A356-37F19FDC6037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B4650-7858-43E1-A356-37F19FDC6037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0B872F-0B87-4696-8D3D-0E2D92A7A0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0B872F-0B87-4696-8D3D-0E2D92A7A0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0B872F-0B87-4696-8D3D-0E2D92A7A0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0B872F-0B87-4696-8D3D-0E2D92A7A0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D63EDA5-42DA-4627-8D2C-E02F619C747D}
+	EndGlobalSection
+EndGlobal
